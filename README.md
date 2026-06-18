@@ -1,7 +1,5 @@
 # AI 健身规划师 🏋️‍♂️
 
-![AI Fitness Planner Demo](ai_fitness_planner.gif)
-
 基于LangGraph工作流的全栈GenAI系统，使用真实的USDA营养数据和协调的AI智能体创建个性化的健身和营养计划。
 
 **功能介绍**：上传您的个人资料，几分钟内即可获得完整的饮食和健身计划。就像拥有一个由AI驱动的私人教练和营养师。
@@ -14,8 +12,8 @@
 
 ```bash
 # 1. 克隆并设置项目
-git clone https://github.com/zen-apps/ai-fitness-planner.git
-cd ai-fitness-planner
+git clone https://github.com/BeAngryGroot/llm-multi-agent-fitness-planner.git
+cd llm-multi-agent-fitness-planner
 cp .env.example .env
 
 # 2. 配置阿里云API密钥
